@@ -1,0 +1,7 @@
+sumdu\edu\ua\mavenproject2\Controllers\StudentController.class
+sumdu\edu\ua\mavenproject2\model\Content.class
+sumdu\edu\ua\mavenproject2\model\Student.class
+sumdu\edu\ua\mavenproject2\Controllers\ControllContent.class
+sumdu\edu\ua\mavenproject2\DAO\DAO_Student.class
+sumdu\edu\ua\mavenproject2\DAO\TransactionManager.class
+sumdu\edu\ua\mavenproject2\DAO\DAO_Content.class
